@@ -40,4 +40,4 @@ When MicroPython boots for the first time, it will sit and wait for you to conne
     - instead, save file to Pico as "main.py"
     - if the code doesn't run, Cntrl-D to soft reset the board
     - you may also need to click the stop button in order to pause Python execution to reupload to board
-3. Now you can execute blocks of code directly to the Pico
+    - code will now run automatically on Pico power up
